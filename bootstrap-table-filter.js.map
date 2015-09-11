@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "bootstrap-table-filter.js",
+  "sourceRoot": "",
+  "sources": [
+    "bootstrap-table-filter.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;;AAAA"
+}
